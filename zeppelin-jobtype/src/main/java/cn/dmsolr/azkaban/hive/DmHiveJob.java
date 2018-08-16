@@ -1,4 +1,4 @@
-package cn.dmsolr.zeppelin.hive;
+package cn.dmsolr.azkaban.hive;
 
 import java.io.File;
 import java.util.ArrayList;

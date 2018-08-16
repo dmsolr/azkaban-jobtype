@@ -1,4 +1,4 @@
-package cn.dmsolr.zeppelin.spark;
+package cn.dmsolr.azkaban.spark;
 
 import java.io.IOException;
 
