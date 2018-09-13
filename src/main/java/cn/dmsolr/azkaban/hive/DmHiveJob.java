@@ -12,7 +12,7 @@ import azkaban.utils.Props;
 import azkaban.utils.Utils;
 
 public class DmHiveJob extends ProcessJob {
-	public static String DMHiveWrapperClass = "com.watsons.dazkaban.DmHiveWrapper";
+	public static String DMHiveWrapperClass = "cn.dmsolr.azkaban.DmHiveWrapper";
 	public static final String CLASSPATH = "classpath";
 	public static final String GLOBAL_CLASSPATH = "global.classpaths";
 	public static final String JAVA_CLASS = "java.class";

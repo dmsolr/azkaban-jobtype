@@ -7,6 +7,6 @@
 基于Hive Beeline API实现的，非常简单。完全没有你想要权限什么的。
 
 ### SparkJobType
-基于Spark-Sumbit API实现的，同上。
+基于Spark-Launcher API实现的，同上。
 
 如果你更关注任务的执行情况和状态、甚至是一些简单的Job日志的话。我觉得这两个JobType可能会你一个很好的选择。
